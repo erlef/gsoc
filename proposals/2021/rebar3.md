@@ -44,4 +44,5 @@ Erlang
 #### Possible Mentors
 
 * Fred Hebert
+* Bryan Paxton
 * Pablo Costas Sánchez
